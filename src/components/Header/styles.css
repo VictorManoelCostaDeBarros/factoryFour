@@ -1,0 +1,14 @@
+.header-container {
+  width: 100%;
+  padding: 16px 24px; 
+
+  background: #628bc6;
+
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+.header-container h2 {
+  font-size: 1.25rem;
+  color: #FFF;
+  font-weight: 500;
+}
